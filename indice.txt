@@ -1,1 +1,4 @@
-Este es el indice
+Este es el indice:
+Capitulo 1: Introducion a Git
+Capitulo 2: Flujo de trabajo basico
+Capitulo 3: Repositorios remotos
